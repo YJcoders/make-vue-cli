@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "vue各版本下载脚手架",
   "main": "index.js",
-  "type": "module",
   "bin": {
     "make-vue": "./bin/cli.js"
   },
@@ -17,8 +16,10 @@
   "author": "yjcoders",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "commander": "^11.0.0",
     "download-git-repo": "^3.0.2",
-    "inquirer": "^9.2.10"
+    "inquirer": "^8.2.6",
+    "util": "^0.12.5"
   }
 }
