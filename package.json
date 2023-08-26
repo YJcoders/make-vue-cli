@@ -15,7 +15,7 @@
   ],
   "author": "yjcoders",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "chalk": "^4.1.2",
     "commander": "^11.0.0",
     "download-git-repo": "^3.0.2",
