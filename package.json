@@ -1,16 +1,16 @@
 {
   "name": "make-vue-cli",
   "version": "1.0.0",
-  "description": "vue各版本下载脚手架",
+  "description": "Vue各版本下载脚手架",
   "main": "index.js",
   "bin": {
-    "make-vue": "./bin/cli.js"
+    "make-vue": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "vue",
+    "Vue",
     "cli"
   ],
   "author": "yjcoders",
